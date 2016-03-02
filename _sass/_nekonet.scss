@@ -5,8 +5,9 @@ h1 {
     font-family: Verdana, Droid Sans Mono, Sans Serif;
 }
 
-.post-header h1 {
+.post-header h1, h1.page-heading {
     color: #404040;
+    font-size: 24pt;
 }
 
 .post-content h1 {
