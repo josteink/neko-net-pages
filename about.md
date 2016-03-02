@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Nekonet
-permalink: /about/
+title: Servers, ports, etc
+permalink: /servers/
 ---
 
 # Our servers

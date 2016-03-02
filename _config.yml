@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: www.neko-net.org
+title: neko-net irc
 #email: noreply@neko-net.org
 description: > # this means to ignore newlines until "baseurl:"
   The neko-net IRC network's main homepage with news, servers and more.
