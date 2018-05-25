@@ -18,7 +18,6 @@ Server|Secure ports (SSL)|Insecure ports|Location
 ------|-----|--------
 rotterdam.nl.eu.neko-net.org|6669|6667,6668|Rotterdam, Netherlands
 oslo.no.eu.neko-net.org|6669|6667,6668|Oslo, Norway
-trondheim.no.eu.neko-net.org|6669|6667,6668|Trondheim, Norway
 falkenberg.se.eu.neko-net.org|6669|6667,6668|Falkenberg, Sweden
 frankfurt.de.eu.neko-net.org|6669|None|Frankfurt, Germany
 
