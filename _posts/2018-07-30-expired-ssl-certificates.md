@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Expired SSL certificates"
-date:   2018-07-39 11:00:00 +0100
+date:   2018-07-30 11:00:00 +0100
 categories: server
 ---
 
