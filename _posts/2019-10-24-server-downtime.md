@@ -15,4 +15,4 @@ This post will be updated once all servers are back up.
 
 Sorry about the inconvenience.
 
-**Update:** Oslo is back up, but irc-services are still offline. 
+**Update:** All services are now back up.
