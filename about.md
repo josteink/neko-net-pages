@@ -16,11 +16,10 @@ Apart from that, we have the following servers:
 
 Server|Secure ports (SSL)|Insecure ports|Location
 ------|-----|--------
-rotterdam.nl.eu.neko-net.org|6669|6667,6668|Rotterdam, Netherlands
+dusseldorf.de.eu.neko-net.org|6669|6667|Dusseldorf, Germany
 oslo.no.eu.neko-net.org|6669|6667,6668|Oslo, Norway
 falkenberg.se.eu.neko-net.org|6669|6667,6668|Falkenberg, Sweden
 frankfurt.de.eu.neko-net.org|6669|6667|Frankfurt, Germany
-
 
 # Opers
 
@@ -30,7 +29,6 @@ contacting them:
 
 * Demonen
 * Nocab
-* Sunblade
 * Tron
 * Revie/Revenger
 
