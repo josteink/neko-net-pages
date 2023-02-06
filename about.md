@@ -12,14 +12,18 @@ The recommended way to connect to our network is to use
 All servers provide a secure, valid and verifiable SSL-connection on
 port `6669` and this is the recommended way of connecting.
 
-Apart from that, we have the following servers:
+Apart from that, we have the following server(s):
 
 Server|Secure ports (SSL)|Insecure ports|Location
 ------|-----|--------
-dusseldorf.de.eu.neko-net.org|6669|6667|Dusseldorf, Germany
-falkenberg.se.eu.neko-net.org|6669|6667,6668|Falkenberg, Sweden
-frankfurt.de.eu.neko-net.org|6669|6667|Frankfurt, Germany
 oslo.no.eu.neko-net.org|6669|6667,6668|Oslo, Norway
+
+# Our matrix presence
+
+Want a more modern experience? The community is currently in the process
+of moving to [the matrix](https://matrix.org/).
+
+Join us at [#linux:neko-net.org](https://matrix.to/#/#linux:neko-net.org)!
 
 # Opers
 
@@ -30,5 +34,4 @@ contacting them:
 * Demonen
 * Nocab
 * Tron
-* Revie/Revenger
 
