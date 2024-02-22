@@ -16,7 +16,7 @@ Apart from that, we have the following server(s):
 
 Server|Secure ports (SSL)|Insecure ports|Location
 ------|-----|--------
-oslo.no.eu.neko-net.org|6667,6668,6669|None|Oslo, Norway
+oslo.no.eu.neko-net.org|6669,6697|6667,6668|Oslo, Norway
 
 # Our matrix presence
 
